@@ -1,0 +1,193 @@
+.body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0%;
+}
+.top-banner{
+    background-image: url(images/flood.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+    text-align: center;
+}
+.top-banner-font{
+ color:black;
+ padding-top: 10%;
+ margin:5% 5%;
+ font-size:22px;
+ font-weight: 500;
+}
+button{
+    margin-top: 20%;
+    background-color:lightcoral;
+    font-weight: 700;
+    padding: 5% 15%;
+    border-radius: 5px;
+    border-color:lightsalmon;
+    box-shadow: none;
+    color:white;
+}
+#top-banner-button{
+    padding: 20px 30px;
+}
+.s1{
+    color: red;
+}
+.taka{
+    display: flex;
+    margin-bottom: 5%;
+   
+
+}
+.one{
+    margin-left: 30%;
+    background-color:antiquewhite;
+    border-radius: 5%;
+}
+.two{
+    color: black;
+    border-style: solid;
+    margin-left: 70px;
+    background-color:aquamarine;
+    border-radius: 5%;
+    padding: 20px 15px;
+}
+.three{
+    margin-left: 70px;
+    background-color: antiquewhite;
+    border-radius: 5%;
+}
+.four{
+    margin-left: 70px;
+    background-color: antiquewhite;
+    border-radius: 5%;
+
+
+}
+.five{
+    margin-left: 70px;
+    background-color: antiquewhite;
+    border-radius: 5%;
+}
+.donation{
+    margin-bottom: 5%;
+}
+.donation-banner{
+    text-align:center ;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+.other-amount{
+    text-decoration-color: black;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    border-style: dotted;
+    margin-left: 30%;
+    margin-right: 30%;
+   border-color: white;
+    background-color: white;
+   
+}
+.donate-button{
+    padding: 20px 30px;
+    margin: 5%;
+}
+.middle-section{
+    text-align: center;
+}
+.food-shelter-medicine{
+    text-align: center;
+    display: flex;
+    padding-top: 50px;
+    margin: 50px 50px 50px 50px;
+}
+.food{
+    background-color: wheat;
+    margin-right: 70px;
+    margin-left: 70px;
+    padding-right: 15px;
+    border-radius: 3% 3% 3% 3% ;
+    width:33%;
+    padding-bottom:1% ;
+    padding-top:1% ;
+}
+.shelter{
+    background-color:lightblue;
+    margin-right: 70px;
+    margin-left: 70px;
+    padding-right: 15px;
+    border-radius: 3% 3% 3% 3%;
+    padding-top:1%;
+    width:33%;
+}
+.medicine{
+    background-color:lightpink;
+    width:33%;
+    margin-right: 70px;
+    margin-left:70px;
+    padding-right:15px;
+    border-radius:3% 3% 3% 3%;
+    padding-top: 1%;
+    padding-bottom:1%;
+
+}
+.contributes{
+    display: flex;
+    margin-top: 15%;
+    margin-left: 100px;
+    margin-right: 70px;
+}
+.contribute{
+    text-align: left;
+}
+#image{
+    margin-left: 13%;
+    margin-bottom: 5%;
+    margin-right: 3%;
+}
+.need{
+    display: flex;
+    margin-top: 5%;
+    margin-left:100Px;
+}
+.survive{
+    text-align: left;
+    margin-top: 5%;
+    margin-right: 70px;
+    margin-left:30px ;
+    margin-bottom: 5%; 
+}
+.updates{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+#bold{
+    font-weight:500 ;
+}
+.last-part{
+    background-color: lightsalmon;
+    padding-bottom: 5%;
+    margin:5% 35%;
+    border-radius: 2%;
+}
+input{
+    color: black;
+    background-color: wheat;
+    border-color: transparent;
+    padding: 5px;
+}
+.final-button{
+    color: white;
+    padding: 5px 15px;
+    border-color: tomato;
+    border-radius: 5%;
+}
+footer{
+    color: red;
+    text-align: center;
+    background-color: black;
+    padding: 1%;
+}
